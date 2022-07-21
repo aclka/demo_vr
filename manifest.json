@@ -1,5 +1,4 @@
 {
- "name": "Demo_vr",
  "icons": [
   {
    "type": "image/png",
@@ -37,8 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm?installed=true",
+ "name": "Demo_vr",
  "display": "fullscreen",
- "theme_color": "#000000",
- "background_color": "#000000"
+ "start_url": "index.htm?installed=true",
+ "background_color": "#000000",
+ "theme_color": "#000000"
 }
